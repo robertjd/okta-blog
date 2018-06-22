@@ -2,9 +2,9 @@
 <img src="https://devforum.okta.com/uploads/oktadev/original/1X/bf54a16b5fda189e4ad2706fb57cbb7a1e5b8deb.png" href='https://devforum.okta.com/' width="350px"/>
 </p>
 
-# Okta developer site [![Build Status](https://travis-ci.org/okta/okta.github.io.svg?branch=source)](https://travis-ci.org/okta/okta.github.io)
+# Okta developer blog [![Build Status](https://travis-ci.org/okta/okta.github.io.svg?branch=source)](https://travis-ci.org/okta/okta.github.io)
 
-The Okta developer site ([developer.okta.com](https://developer.okta.com)) is built using [Hugo](https://gohugo.io/).
+The Okta blog ([developer.okta.com/blog](https://developer.okta.com/blog)) is built using [Hugo](https://gohugo.io/).
 
 See a problem or want to contribute? Read [Contributing to the site](#contributing-to-the-site) below.
 
